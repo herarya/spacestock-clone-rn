@@ -144,6 +144,7 @@ Home.options = {
   topBar: {
     noBorder: true,
     drawBehind: true,
+    elevation : 0,
     background: {
       color: 'transparent',
     },
